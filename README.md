@@ -1,8 +1,13 @@
-# React + Vite
+# codexinterns-frontend-tasks
+Codex Intern Task Submissions
+This repository contains my submissions for the Codex Internship in Front-End Development (January 2025) :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Article Summarizer: A React and Tailwind-based application that summarizes text from website URLs using RapidAPI.
+Spotify Song Downloader: A React and Tailwind app that downloads Spotify songs via RapidAPI.
+Client-Side Routing: Implementation using react-router-dom.
 
-Currently, two official plugins are available:
+📅 Internship Duration: 2nd January to 27th January 2025
+🕒 Submission Deadline: 27th January 2025
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to explore and provide feedback! 🚀
+
